@@ -2171,12 +2171,12 @@ header .dropdown a[id^=langmenu] + ul li a {
 .section-top {
   position: relative;
   height: 600px;
-  background: url(../../img/section-top1.png);
+  background: url(../img/section-top1.png);
   background-size: cover;
 }
 
 .section-top-two {
-  background: url(../../img/section-top2.png);
+  background: url(../img/section-top2.png);
   background-size: cover;
   margin-bottom: 85px;
 }
